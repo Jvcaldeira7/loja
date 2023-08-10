@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(255, 234, 0);
+}
+main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.card{
+    max-width: 400px;
+    margin: 50px;
+}
+.card-2{
+    max-width: 400px;
+    margin: 50px;
+}
+.card-body{
+    background-color: white;
+    min-height: 60px;
+}
